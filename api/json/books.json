@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "57a722eaaff41146871018e3",
+    "name": "11/22/63",
+    "genre": "Science fiction",
+    "author": "57a723c9aff41146871018e4",
+    "summary": "1/22/63 is a novel by Stephen King about a time traveler who attempts to prevent the assassination of President John F. Kennedy, which occurred on November 22, 1963 (the novel's titular date)."
+  },
+  {
+    "_id": "57a72442aff41146871018e5",
+    "name": "Under the Dome",
+    "author": "57a723c9aff41146871018e4",
+    "genre": "Science fiction",
+    "summary": "Under the Dome is a science fiction novel by Stephen King published in November 2009. Set in and around a small Maine town, it tells an intricate, multi-character and point-of-view story of how the town's inhabitants contend with the calamity of being suddenly cut off from the outside world by an impassable, invisible barrier that drops out of the sky."
+  },
+  {
+    "_id": "57a72645aff41146871018e7",
+    "name": "Angels & Demons",
+    "author": "57a7260daff41146871018e6",
+    "genre": "Thriller",
+    "summary": "An ancient secret brotherhood. A devastating new weapon of destruction. An unthinkable target. When world-renowned Harvard symbologist Robert Langdon is summoned to his first assignment to a Swiss research facility to analyze a mysterious symbol -- seared into the chest of a murdered physicist -- he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati...the most powerful underground organization ever to walk the earth. The Illuminati has now surfaced to carry out the final phase of its legendary vendetta against its most hated enemy -- the Catholic Church."
+  },
+  {
+    "_id": "57a72704aff41146871018e8",
+    "name": "The Da Vinci Code",
+    "author": "57a7260daff41146871018e6",
+    "genre": "Thriller",
+    "summary": "As millions of readers around the globe have already discovered, The Da Vinci Code is a reading experience unlike any other. Simultaneously lightning-paced, intelligent, and intricately layered with remarkable research and detail, Dan Brown's novel is a thrilling masterpiece—from its opening pages to its stunning conclusion."
+  },
+  {
+    "_id": "57a72895aff41146871018ea",
+    "name": "The Hobbit",
+    "genre": "Fantasy",
+    "author": "57a727c9aff41146871018e9",
+    "summary": "The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction. The book remains popular and is recognized as a classic in children's literature.Set in a time \"Between the Dawn of Færie and the Dominion of Men\", The Hobbit follows the quest of home-loving hobbit Bilbo Baggins to win a share of the treasure guarded by the dragon, Smaug. Bilbo's journey takes him from light-hearted, rural surroundings into more sinister territory. The story is told in the form of an episodic quest, and most chapters introduce a specific creature, or type of creature, of Tolkien's geography. By accepting the disreputable, romantic, fey and adventurous sides of his nature and applying his wits and common sense, Bilbo gains a new level of maturity, competence and wisdom. The story reaches its climax in the Battle of the Five Armies, where many of the characters and creatures from earlier chapters re-emerge to engage in conflict."
+  },
+  {
+    "_id": "57a72b27aff41146871018ec",
+    "name": "The Last Wish",
+    "genre": "Fantasy",
+    "author": "57a72957aff41146871018eb",
+    "summary": "The Last Wish (Polish: Ostatnie życzenie) is the second of the two collections of short stories (the other being The Sword of Destiny) preceding the main Witcher Saga, written by Polish fantasy writer Andrzej Sapkowski. The first Polish edition was published in 1993, the first English edition in 2007. The book has also been translated into several other languages. The collection employs the frame story framework and contains 7 main short stories; Geralt of Rivia, after having been injured in battle, rests in a temple. During that time he has flashbacks to recent events in his life, each of which forms a story of its own."
+  }
+]
